@@ -1,6 +1,7 @@
 # 曜波 QSLink / QSLink
 
 业余无线电台通联与 QSL 卡片管理软件，支持中文和英文。
+注意：本软件正在申请软件著作权，申请号2026R11L4072970
 
 ## 下载 / Downloads
 
@@ -11,7 +12,7 @@
 
 ## 仓库说明 / Repository status
 
-本仓库仅发布软件包、许可证、校验文件和更新日志。应用源码暂不公开，此 README 为源码占位。
+在软著申请完成前，本仓库仅发布软件包、许可证、校验文件和更新日志。应用源码暂不公开，此 README 为源码占位。
 
 This repository distributes application binaries, licenses, checksums and release notes only. Application source code is not published; this README is a placeholder.
 
